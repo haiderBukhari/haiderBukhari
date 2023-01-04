@@ -1,16 +1,26 @@
-### Hi there I am Muhammad Haider👋
-🔭 I’m currently working on Web development ...
+# Project Name
 
-<!--
-**haiderBukhari/haiderBukhari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Build Status](https://travis-ci.com/user/project.svg?branch=master)](https://travis-ci.com/user/project)
+[![Coverage Status](https://coveralls.io/repos/github/user/project/badge.svg)](https://coveralls.io/github/user/project)
 
-Here are some ideas to get you started:
+## Introduction
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A brief overview of the project and its goals.
+
+## Skills
+
+- List of required skills or technologies
+
+## University
+
+This project is associated with [University Name](http://university.edu).
+
+## Channels
+
+- [Discussion forum](http://forum.com/project)
+- [Slack group](http://slack.com/project)
+
+## Repos
+
+- [Related Repo 1](http://github.com/user/repo1)
+- [Related Repo 2](http://github.com/user/repo2)
