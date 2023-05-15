@@ -1,5 +1,8 @@
 # 💫 About Me:
-Good day! My name is Haider Bukhari, and I am presently engaged in full-stack web development, specializing in React Js and Next Js. Over the course of my career, I have undertaken numerous projects and crafted various games. <br>I am presently seeking to collaborate with individuals who wish to launch their projects and require the assistance of a developer and mentor. My aim is to help guide them through the development process and ensure that their visions are realized with the utmost precision and expertise.<br>I am looking for help with the modern web development Backend tools<br>Currently I am learning JS libraries including React and Next JS<br>You can ask me about any skill or technique that you find particularly challenging<br>
+<h1 align="center">Hi 👋, I'm Muhammad Haider Bukhari</h1>
+<h3 align="center">A passionate Full Stack developer</h3>
+
+I am presently engaged in full-stack web development, specializing in React Js and Next Js. Over the course of my career, I have undertaken numerous projects and crafted various games.
 
 
 ## 🌐 Socials:
