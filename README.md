@@ -18,18 +18,6 @@ I am presently engaged in full-stack web development, specializing in React Js a
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=haiderBukhari&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=haiderBukhari&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
-
-
-
-
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haiderbukhari&show_icons=true&locale=en&layout=compact" alt="haiderbukhari" /></p>
 
