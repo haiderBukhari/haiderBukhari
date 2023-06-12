@@ -20,14 +20,14 @@ I am presently engaged in full-stack web development, specializing in React Js a
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haiderbukhari&" alt="haiderbukhari" /></p>
 
-
+<!-- 
 
 ![](https://github-readme-stats.vercel.app/api?username=haiderbukhari&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=haiderbukhari&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=haiderbukhari&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+ -->
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=haiderBukhari&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
