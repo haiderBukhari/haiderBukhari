@@ -13,8 +13,8 @@ I am presently engaged in full-stack web development, specializing in React Js a
 # 📊 GitHub Stats:
 
 
+![](https://github-readme-stats.vercel.app/api?username=haiderbukhari&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haiderbukhari&show_icons=true&locale=en&layout=compact" alt="haiderbukhari" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haiderbukhari&show_icons=true&locale=en" alt="haiderbukhari" /></p>
 
@@ -23,7 +23,8 @@ I am presently engaged in full-stack web development, specializing in React Js a
 
 
 <!-- 
-![](https://github-readme-stats.vercel.app/api?username=haiderbukhari&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haiderbukhari&show_icons=true&locale=en&layout=compact" alt="haiderbukhari" /></p>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=haiderbukhari&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=haiderbukhari&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
