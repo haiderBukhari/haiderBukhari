@@ -31,13 +31,13 @@ I am presently engaged in full-stack web development, specializing in React Js a
  
  
  
- 
+<!--  
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haiderbukhari&show_icons=true&locale=en&layout=compact" alt="haiderbukhari" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haiderbukhari&show_icons=true&locale=en" alt="haiderbukhari" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haiderbukhari&" alt="haiderbukhari" /></p>
-
+ -->
  -->
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=haiderBukhari&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
