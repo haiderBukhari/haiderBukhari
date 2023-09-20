@@ -15,7 +15,6 @@ I am presently engaged in full-stack web development, specializing in React Js a
 <!-- # 📊 GitHub Stats: -->
 
 <!-- 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haiderbukhari&show_icons=true&locale=en&layout=compact" alt="haiderbukhari" /></p>
 
@@ -41,6 +40,8 @@ I am presently engaged in full-stack web development, specializing in React Js a
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haiderbukhari&" alt="haiderbukhari" /></p>
  -->
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=haiderBukhari&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=haiderBukhari&theme=dark&hide_border=false)<br/>
