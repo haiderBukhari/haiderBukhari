@@ -1,3 +1,5 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://haiderbukhari.tech)
+
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Muhammad Haider Bukhari</h1>
 <h3 align="center">A passionate Full Stack developer & Machine Learning Enthusiast</h3>
@@ -20,6 +22,7 @@ I am presently engaged in full-stack web development, specializing in React Js a
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haiderbukhari&" alt="haiderbukhari" /></p>
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <!-- 
 
 ![](https://github-readme-stats.vercel.app/api?username=haiderbukhari&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
