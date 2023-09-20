@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://haiderbukhari.tech)
+[![MasterHead](https://media.licdn.com/dms/image/D4D16AQEatLts911N9Q/profile-displaybackgroundimage-shrink_350_1400/0/1693165789275?e=1700697600&v=beta&t=ySgtAgKxULm2VrKykGhtV3S8vPLMJbiBWU-YfgJwWI8)](https://haiderbukhari.tech)
 
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Muhammad Haider Bukhari</h1>
@@ -30,6 +30,7 @@ I am presently engaged in full-stack web development, specializing in React Js a
 ![](https://github-readme-streak-stats.herokuapp.com/?user=haiderbukhari&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=haiderbukhari&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
  -->
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
  
  
  
@@ -40,7 +41,6 @@ I am presently engaged in full-stack web development, specializing in React Js a
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haiderbukhari&" alt="haiderbukhari" /></p>
  -->
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=haiderBukhari&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
