@@ -30,7 +30,7 @@ I am presently engaged in full-stack web development, specializing in React Js a
 ![](https://github-readme-streak-stats.herokuapp.com/?user=haiderbukhari&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=haiderbukhari&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
  -->
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
  
  
  
