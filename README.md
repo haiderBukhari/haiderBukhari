@@ -1,9 +1,9 @@
 [![MasterHead](https://media.licdn.com/dms/image/D4D16AQEatLts911N9Q/profile-displaybackgroundimage-shrink_350_1400/0/1693165789275?e=1700697600&v=beta&t=ySgtAgKxULm2VrKykGhtV3S8vPLMJbiBWU-YfgJwWI8)](https://haiderbukhari.tech)
 
-# 💫 About Me: (wwww.haiderbukhari.tech)
+# 💫 About Me:
 <h1 align="center">Hi 👋, I'm Muhammad Haider Bukhari</h1>
 <h3 align="center">A passionate Full Stack developer & Machine Learning Enthusiast</h3>
-
+ wwww.haiderbukhari.tech
 I am presently engaged in full-stack web development, specializing in React Js and Next Js. Over the course of my career, I have undertaken numerous projects and crafted various games.
 
 
