@@ -1,5 +1,11 @@
 <!-- [![MasterHead](https://media.licdn.com/dms/image/D4D16AQEatLts911N9Q/profile-displaybackgroundimage-shrink_350_1400/0/1693165789275?e=1700697600&v=beta&t=ySgtAgKxULm2VrKykGhtV3S8vPLMJbiBWU-YfgJwWI8)](https://haiderbukhari.tech) -->
 
+  <p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
+<br>
+
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Muhammad Haider Bukhari</h1>
 <h3 align="center">www.haiderbukhari.tech</h3>
