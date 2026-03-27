@@ -14,7 +14,7 @@ I am presently engaged in full-stack web development, specializing in Blockchain
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-haider-bukhari) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhaiderbukhari) 
 
 # 💻 Tech Stack:
 <!-- 
