@@ -35,7 +35,7 @@ I am presently engaged in full-stack web development, specializing in Blockchain
 ---
 <h3 align="left">Languages:</h3>
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td><img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/></td>
